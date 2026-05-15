@@ -43,21 +43,36 @@ Phase 5  [Month 10-12]→ CF 1900-2100+ + Projects
 
 ## ⚙️ Tech Stack
 
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Tools & OS**
+
 ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**DSA & CS Fundamentals** *(building during prep)*
+
+![Arrays](https://img.shields.io/badge/Arrays_%26_Strings-grey?style=flat-square)
+![Trees](https://img.shields.io/badge/Trees_%26_Graphs-grey?style=flat-square)
+![DP](https://img.shields.io/badge/Dynamic_Programming-grey?style=flat-square)
+![Math](https://img.shields.io/badge/Number_Theory_%26_Math-grey?style=flat-square)
+![Segment Trees](https://img.shields.io/badge/Segment_Trees-grey?style=flat-square)
+![Binary Search](https://img.shields.io/badge/Binary_Search-grey?style=flat-square)
 
 ---
 
 ## 📁 Repositories
 
-| Repo                                                                                                | Description                                        |
-| --------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| [Xstream_Competitive-Programming](https://github.com/Tanmaya-Nayak/Xstream_Competitive-Programming) | CF, AtCoder, LeetCode solutions                    |
-| [Learn_C](https://github.com/Tanmaya-Nayak/Learn_C)                                                 | C fundamentals — arrays, linked list, stack, queue |
-| [Arch-linux-Backups](https://github.com/Tanmaya-Nayak/Arch-linux-Backups)                           | Neovim, Hyprland, Waybar dotfiles                  |
+| Repo | Description |
+|------|-------------|
+| [Xstream_Competitive-Programming](https://github.com/Tanmaya-Nayak/Xstream_Competitive-Programming) | CF, AtCoder, LeetCode solutions |
+| [Learn_C](https://github.com/Tanmaya-Nayak/Learn_C) | C fundamentals — arrays, linked list, stack, queue |
+| [Arch-linux-Backups](https://github.com/Tanmaya-Nayak/Arch-linux-Backups) | Neovim, Hyprland, Waybar dotfiles |
 
 ---
 
