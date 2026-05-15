@@ -83,7 +83,6 @@ Phase 5  [Month 10-12]→ CF 1900-2100+ + Projects
 |------|-------------|
 | [Xstream_Competitive-Programming](https://github.com/Tanmaya-Nayak/Xstream_Competitive-Programming) | CF, AtCoder, LeetCode solutions |
 | [Learn_C](https://github.com/Tanmaya-Nayak/Learn_C) | C fundamentals — arrays, linked list, stack, queue |
-| [Arch-linux-Backups](https://github.com/Tanmaya-Nayak/Arch-linux-Backups) | Neovim, Hyprland, Waybar dotfiles |
 
 ---
 
