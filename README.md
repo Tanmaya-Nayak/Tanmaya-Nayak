@@ -88,7 +88,8 @@ Phase 5  [Month 10-12]→ CF 1900-2100+ + Projects
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanmaya-Nayak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanmaya-Nayak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanmaya-Nayak&theme=tokyonight&hide_border=true)
 
 </div>
