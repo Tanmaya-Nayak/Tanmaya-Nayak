@@ -57,7 +57,7 @@ Phase 5  [Month 10-12]→ CF 1900-2100+ + Projects
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**DSA & CS Fundamentals** *(building during prep)*
+**DSA & CS Fundamentals** _(building during prep)_
 
 ![Arrays](https://img.shields.io/badge/Arrays_%26_Strings-grey?style=flat-square)
 ![Trees](https://img.shields.io/badge/Trees_%26_Graphs-grey?style=flat-square)
@@ -66,7 +66,7 @@ Phase 5  [Month 10-12]→ CF 1900-2100+ + Projects
 ![Binary Search](https://img.shields.io/badge/Binary_Search-grey?style=flat-square)
 ![Graph Algorithms](https://img.shields.io/badge/Graph_Algorithms-grey?style=flat-square)
 
-**Mathematics** *(revisiting for Quant/HFT)*
+**Mathematics** _(revisiting for Quant/HFT)_
 
 ![Probability](https://img.shields.io/badge/Probability_%26_Statistics-grey?style=flat-square)
 ![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-grey?style=flat-square)
@@ -79,17 +79,16 @@ Phase 5  [Month 10-12]→ CF 1900-2100+ + Projects
 
 ## 📁 Repositories
 
-| Repo | Description |
-|------|-------------|
-| [Xstream_Competitive-Programming](https://github.com/Tanmaya-Nayak/Xstream_Competitive-Programming) | CF, AtCoder, LeetCode solutions |
-| [Learn_C](https://github.com/Tanmaya-Nayak/Learn_C) | C fundamentals — arrays, linked list, stack, queue |
+| Repo                                                                                                | Description                                        |
+| --------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [Xstream_Competitive-Programming](https://github.com/Tanmaya-Nayak/Xstream_Competitive-Programming) | CF, AtCoder, LeetCode solutions                    |
+| [Learn_C](https://github.com/Tanmaya-Nayak/Learn_C)                                                 | C fundamentals — arrays, linked list, stack, queue |
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanmaya-Nayak&show_icons=true&theme=tokyonight&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanmaya-Nayak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanmaya-Nayak&theme=tokyonight&hide_border=true)
 
 </div>
