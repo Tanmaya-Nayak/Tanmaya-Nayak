@@ -2,7 +2,9 @@
 
 # Hey, I'm Sai 👋
 
-**Competitive Programmer | C++ | Targeting Quant / HFT Roles**
+**Competitive Programmer | C / C++ / Python**
+
+**Targeting Quant / HFT | Open to FAANG & Product Companies**
 
 KIIT Bhubaneswar
 
@@ -60,9 +62,18 @@ Phase 5  [Month 10-12]→ CF 1900-2100+ + Projects
 ![Arrays](https://img.shields.io/badge/Arrays_%26_Strings-grey?style=flat-square)
 ![Trees](https://img.shields.io/badge/Trees_%26_Graphs-grey?style=flat-square)
 ![DP](https://img.shields.io/badge/Dynamic_Programming-grey?style=flat-square)
-![Math](https://img.shields.io/badge/Number_Theory_%26_Math-grey?style=flat-square)
 ![Segment Trees](https://img.shields.io/badge/Segment_Trees-grey?style=flat-square)
 ![Binary Search](https://img.shields.io/badge/Binary_Search-grey?style=flat-square)
+![Graph Algorithms](https://img.shields.io/badge/Graph_Algorithms-grey?style=flat-square)
+
+**Mathematics** *(revisiting for Quant/HFT)*
+
+![Probability](https://img.shields.io/badge/Probability_%26_Statistics-grey?style=flat-square)
+![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-grey?style=flat-square)
+![Calculus](https://img.shields.io/badge/Calculus-grey?style=flat-square)
+![Discrete Math](https://img.shields.io/badge/Discrete_Mathematics-grey?style=flat-square)
+![Number Theory](https://img.shields.io/badge/Number_Theory-grey?style=flat-square)
+![Combinatorics](https://img.shields.io/badge/Combinatorics-grey?style=flat-square)
 
 ---
 
