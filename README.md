@@ -1,78 +1,76 @@
-# ✦ CyberNova Waybar — Hyprland Setup Guide
+<div align="center">
 
-## File Locations
+# Hey, I'm Sai 👋
+
+**Competitive Programmer | C++ | Targeting Quant / HFT Roles**
+
+KIIT Bhubaneswar
+
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-Tr1murta9-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Tr1murta9)
+[![AtCoder](https://img.shields.io/badge/AtCoder-Tr1murta9-000000?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Tr1murta9)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Tr1murta9-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Tr1murta9/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-trimurta19-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/trimurta19)
+
+</div>
+
+<div align="center">
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/badge?handle=Tr1murta9&style=for-the-badge)](https://codeforces.com/profile/Tr1murta9)
+
+</div>
+
+---
+
+## 🛣️ Roadmap — Red Coder in 1 Year
+
 ```
-~/.config/waybar/config          ← Main waybar configuration
-~/.config/waybar/style.css       ← Theme & styling
-~/.config/hypr/hyprland.conf     ← Add the animation block from hyprland-animations.conf
-```
-
-## Required Packages (Install with pacman / yay)
-
-```bash
-# Core
-sudo pacman -S waybar hyprland
-
-# Nerd Fonts (for ALL icons to display correctly)
-yay -S ttf-jetbrains-mono-nerd nerd-fonts-symbols-only
-# OR install the complete nerd fonts meta:
-yay -S nerd-fonts
-
-# Screenshot
-yay -S grimblast-git          # grimblast --notify copy area
-
-# Screen Lock
-sudo pacman -S hyprlock        # or: yay -S swaylock-effects-git
-
-# Network Manager GUI
-sudo pacman -S network-manager-applet nm-connection-editor
-
-# Bluetooth Manager
-sudo pacman -S blueman
-
-# Taskbar icon theme
-sudo pacman -S papirus-icon-theme
-```
-
-## Quick Install
-```bash
-mkdir -p ~/.config/waybar
-cp config    ~/.config/waybar/config
-cp style.css ~/.config/waybar/style.css
-
-# Restart waybar
-pkill waybar && waybar &
+Phase 1  [Month 1-2]  → STL Mastery + CF 800-1000
+Phase 2  [Month 3-4]  → CF 1000-1400 + AtCoder ABC
+Phase 3  [Month 5-6]  → CF 1400-1600 + Core DSA
+Phase 4  [Month 7-9]  → CF 1600-1900 + Advanced Topics
+Phase 5  [Month 10-12]→ CF 1900-2100+ + Projects
 ```
 
-## Module Guide
+---
 
-| Module            | Left-click         | Middle-click  | Right-click         | Scroll     |
-|-------------------|--------------------|---------------|---------------------|------------|
-| Workspaces        | Switch workspace   | —             | —                   | Navigate ± |
-| Clock             | Toggle date/time   | —             | Calendar mode       | Month nav  |
-| Taskbar icon      | Focus/raise window | Close app     | Close app           | —          |
-| Network           | nm-connection-editor | —           | nmtui in terminal   | —          |
-| Bluetooth         | blueman-manager    | —             | rfkill toggle       | —          |
-| Battery           | Toggle info        | —             | —                   | —          |
-| Screenshot        | Area screenshot    | Window shot   | Full screen shot    | —          |
-| Lock              | Lock screen (hyprlock) | —        | —                   | —          |
-| Restart           | systemctl reboot   | —             | —                   | —          |
-| Power Off         | systemctl poweroff | —             | —                   | —          |
+## ⚙️ Tech Stack
 
-## Timezone
-The clock is set to `Asia/Kolkata` (IST). To change:
-- Edit `"timezone"` in the `clock` module in `config`
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Troubleshooting Icons
-If icons show as boxes/question marks:
-```bash
-fc-cache -fv
-# Then restart waybar
-pkill waybar && waybar &
-```
+---
 
-## Customising Accent Colors
-Edit these lines at the top of `style.css`:
-- Active workspace glow: `rgba(99, 102, 241, ...)` — change to your preferred color
-- Clock gradient: `linear-gradient(90deg, #818cf8 ...` — swap hex values
-- Border accents: `.modules-left`, `.modules-center`, `.modules-right` border colors
+## 📁 Repositories
+
+| Repo | Description |
+|------|-------------|
+| [Xstream_Competitive-Programming](https://github.com/SuperSai6261/Xstream_Competitive-Programming) | CF, AtCoder, LeetCode solutions |
+| [Learn_Cpp](https://github.com/SuperSai6261/Learn_Cpp) | C++ fundamentals |
+| [Arch-linux-Backups](https://github.com/SuperSai6261/Arch-linux-Backups) | Neovim, Hyprland, Waybar dotfiles |
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuperSai6261&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuperSai6261&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+<i>Consistency beats talent. One problem at a time.</i>
+</div>
