@@ -55,17 +55,17 @@ Phase 5  [Month 10-12]→ CF 1900-2100+ + Projects
 
 | Repo | Description |
 |------|-------------|
-| [Xstream_Competitive-Programming](https://github.com/SuperSai6261/Xstream_Competitive-Programming) | CF, AtCoder, LeetCode solutions |
-| [Learn_Cpp](https://github.com/SuperSai6261/Learn_Cpp) | C++ fundamentals |
-| [Arch-linux-Backups](https://github.com/SuperSai6261/Arch-linux-Backups) | Neovim, Hyprland, Waybar dotfiles |
+| [Xstream_Competitive-Programming](https://github.com/Tanmaya-Nayak/Xstream_Competitive-Programming) | CF, AtCoder, LeetCode solutions |
+| [Learn_Cpp](https://github.com/Tanmaya-Nayak/Learn_Cpp) | C++ fundamentals |
+| [Arch-linux-Backups](https://github.com/Tanmaya-Nayak/Arch-linux-Backups) | Neovim, Hyprland, Waybar dotfiles |
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuperSai6261&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanmaya-Nayak&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuperSai6261&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanmaya-Nayak&theme=tokyonight&hide_border=true)
 
 </div>
 
