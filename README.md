@@ -83,12 +83,13 @@ Phase 5  [Month 10-12]→ CF 1900-2100+ + Projects
 | --------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | [Xstream_Competitive-Programming](https://github.com/Tanmaya-Nayak/Xstream_Competitive-Programming) | CF, AtCoder, LeetCode solutions                    |
 | [Learn_C](https://github.com/Tanmaya-Nayak/Learn_C)                                                 | C fundamentals — arrays, linked list, stack, queue |
+| [Learn_Cpp](https://github.com/Tanmaya-Nayak/Learn_Cpp)                                             | C++ fundamentals — STL, OOP, templates             |
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanmaya-Nayak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanmaya-Nayak&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanmaya-Nayak&theme=tokyonight&hide_border=true)
 
